@@ -1,5 +1,6 @@
 import java.util.Arrays;
-
+// Anagram Program
+//Created By MeAdarshMishra
 public class Anagram {
     static void isAnagram(String str1, String str2) {
         String s1 = str1.replaceAll("\\s", "");
